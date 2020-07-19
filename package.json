@@ -2,7 +2,6 @@
   "name": "govuk-eleventy",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "npm-run-all --parallel dev:*",
     "build": "npm-run-all prod:*",
