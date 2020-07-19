@@ -1,4 +1,6 @@
 {
     "template": "node",
-    "startScript": "npm start"
+    "container": {
+        "port": 8080
+    }
 }

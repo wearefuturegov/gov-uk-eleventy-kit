@@ -6,7 +6,7 @@ You can copy and paste code samples straight from the [GOV.UK design system](htt
 
 It should be great for prototypes, but might also be suitable for some small, simple production services as well.
 
-## Anatomy
+## 🧠 Anatomy
 
 The main folder is `/pages` where HTML pages live.
 
@@ -27,7 +27,9 @@ Other folders you might see:
 - `/javascript` you can write custom JavaScript in here
 - `/styles` you can style your website using SCSS here
 
-## Using it
+## 👩‍💻 Using it
+
+**[Open it in CodeSandbox](githubbox.com/wearefuturegov/gov-uk-eleventy-kit)**
 
 You need [node.js](https://nodejs.org/en/download/) installed for this to work.
 
@@ -43,7 +45,7 @@ npm run dev
 It should be available in your browser at `http://localhost:8080`.
 
 
-## Putting it on the web
+## 🛰 Putting it on the web
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=github.com/wearefuturegov/gov-uk-eleventy-kit)
 
