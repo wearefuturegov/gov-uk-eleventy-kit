@@ -45,7 +45,7 @@ It should be available in your browser at `http://localhost:8080`.
 
 ## Putting it on the web
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=github.com/wearefuturegov/gov-uk-eleventy-kit)
 
 If you run `npm run build` in your terminal, it will build a set of HTML webpages to the `/_site` folder that are ready to publish on the web.
 
