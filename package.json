@@ -5,9 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "npm-run-all --parallel dev:*",
+    "build": "npm-run-all prod:*",
     "dev:parcel": "parcel watch javascript/index.js -d _site/js",
     "dev:11ty": "eleventy --serve --input=pages",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prod:parcel": "parcel build javascript/index.js -d _site/js",
+    "prod:11ty": "ELEVENTY_ENV=production eleventy --input=pages"
   },
   "keywords": [],
   "author": "",

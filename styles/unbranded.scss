@@ -1,0 +1,10 @@
+@import "node_modules/govuk-frontend/govuk/settings/all";
+
+// Override the default GOV.UK Frontend font stack
+$govuk-font-family: "HelveticaNeue", "Helvetica Neue", "Arial", "Helvetica", sans-serif;
+
+// Override the canvas background colour
+$govuk-canvas-background-colour: $govuk-body-background-colour;
+
+// Grab everything else
+@import "node_modules/govuk-frontend/govuk/all"
