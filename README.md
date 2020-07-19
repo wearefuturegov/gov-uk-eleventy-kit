@@ -45,8 +45,8 @@ It should be available in your browser at `http://localhost:8080`.
 
 ## Putting it on the web
 
-If you run `npm run build` in your terminal, it will build a set of HTML webpages that are ready to host on the web.
+If you run `npm run build` in your terminal, it will build a set of HTML webpages to the `/_site` folder that are ready to publish on the web.
 
 It's suitable for any static file host, like [Netlify](https://www.netlify.com/).
 
-Netlify brings lots of handy enhancements, such as quick [forms](https://docs.netlify.com/forms/setup/).
+Netlify brings lots of handy enhancements, such as quick [forms](https://docs.netlify.com/forms/setup/). You'll struggle to make multi-page forms - [a GOV.UK staple](https://designnotes.blog.gov.uk/2015/07/03/one-thing-per-page/), this way though.
