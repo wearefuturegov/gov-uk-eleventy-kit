@@ -1,10 +1,10 @@
 # GOV.UK Eleventy starter kit
 
-This is a basic 11ty website that includes the styles, assets and scripts of GOV.UK Frontend.
+This is a basic [11ty](https://www.11ty.dev/) website that includes everything from [GOV.UK Frontend](https://frontend.design-system.service.gov.uk/#gov-uk-frontend).
 
-It's intended for quickly building static websites.
+You can copy and paste code samples straight from the [GOV.UK design system](https://design-system.service.gov.uk/).
 
-It should be great for prototypes, but might also be suitable for some production services as well.
+It should be great for prototypes, but might also be suitable for some small, simple production services as well.
 
 ## Anatomy
 
