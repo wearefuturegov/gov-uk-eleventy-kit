@@ -10,7 +10,7 @@ It should be great for prototypes, but might also be suitable for some small, si
 
 The main folder is `/pages` where HTML pages live.
 
-Layouts are in the `/_includes` subfolder. Choose which layout you want to use by chaning the front matter:
+Layouts are in the `/_includes` subfolder. Choose which layout you want to use by changing the lines at the top of the files:
 
 ```
 ---
