@@ -29,7 +29,7 @@ Other folders you might see:
 
 ## 👩‍💻 Using it
 
-**[Open it in CodeSandbox](githubbox.com/wearefuturegov/gov-uk-eleventy-kit)**
+**[Open it in CodeSandbox](https://githubbox.com/wearefuturegov/gov-uk-eleventy-kit)**
 
 You need [node.js](https://nodejs.org/en/download/) installed for this to work.
 
