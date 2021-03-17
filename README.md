@@ -39,7 +39,7 @@ If you do, run these commands:
 
 ```
 npm install
-npm run dev
+npm run start
 ```
 
 It should be available in your browser at `http://localhost:8080`.
